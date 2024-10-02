@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kandil
 ==============================================================================================================================
 
-CS @ TUM (3rd semester Bsc) and Working student @ SAP
+CS @ TUM (3rd semester BSc) and Working student @ SAP
 -----------
 
 Bulding and shipping features to Robinhood, Udemy, Snyk, podium, and many more :)
